@@ -1,0 +1,81 @@
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont "But online I read that \BLANK." };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont 11 reasons to \BLANK. Nr 5 will surprise you. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont 9gags most upvoted post is \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont After successfully selling my company I now \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont After ten years working as a developer, I am addicted to \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont As a hobby project I \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Customer always complain about \BLANK in our software. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Deploying my application in \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Excel should be used for \BLANK more often. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Fixing bugs by \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont For relaxing I do \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont High quality software is made with \BLANK };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I am using \BLANK for my monolith. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I asked my boss for a raise due to \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I declined the pull request because of \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I destroyed \BLANK by \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I don't get laid because of \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I don't get paid because of \BLANK. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I don't need backups, I have \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I filed a bug on \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I had a problem with \BLANK and solved it by \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I integrated \BLANK into my DevSecOps pipeline. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I like to get drunk and \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I like to turn up to investor meetings \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I spent my last salary on \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I successfully tested \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I switched to Linux because of \BLANK. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont I would sell my shares of the company for \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Last deployment failed because of \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Last time I went outside, I experienced \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Last year North Korea spent 10 million on \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My Cloud Drive won't sync because of \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My alternative to the gym is \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My co-worker files a complaint because of \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My currently relationship status is \BLANK because of \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My job feels like \BLANK. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My morning toilet session can be explained as \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My security is so good, it \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont On my GitHub profile you will find \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont On our Offsite we did \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Our USP is \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Our systems for \BLANK runs only on raspberry pies. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Software development is like \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The 11-star user experience is \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The booth is themed \BLANK. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The customer requests \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The difference between RSA and DSA is \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The documentation says you should \BLANK, but to make it work you need to \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The new marketing campaign for April 1st will be \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The next blog article will be about \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The next superior cloud service will use \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont There still is a bug in \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont This year's marketing motto is \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont We use \BLANK for quality control. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont When the marking intern asks: "Can you please change \BLANK on the website" };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont When the sales guys are laughing in their office they are \BLANK. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Yesterday Bill Gates asked me \BLANK };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont \BLANK as a Service };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont \BLANK makes the CEO happy. };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont \BLANK. How did this ever work? };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont \BLANK. Oh, this was earlier than expected. };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse

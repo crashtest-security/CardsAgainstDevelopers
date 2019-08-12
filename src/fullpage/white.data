@@ -1,0 +1,215 @@
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont "Did you try turning it off and on again?" };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont "I destroyed the internet" };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont "I tested it" };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont "Your" opinion };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont 45 minutes daily standup };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont A fridge filled with club mate };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont A missing semicolon };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont A short nap };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont A three day build pipeline };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont A/B testing };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont AI Hackathon };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont AI based sex toys };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont An oversized office chair };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Backdoor Traffic };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Beer Pong as a team event };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Beer in the office };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Being oddly specific };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Big Data driven business model };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Bill Gates };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Black holes };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Blinking ads };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Browsing StackOverflow for hours without actually looking for a solution };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Bruce Schneier };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Burger Tuesday };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont CORS Headers };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Cat videos };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Church of the flying spaghetti monster };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Code monkeys };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Cold leftover pizza from last week };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Comic Con };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Commenting it out };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Compilation error };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Copy \& Pasting from StackOverflow };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Creating a buffer overflow };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Cuddling with ewoks };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Customer touchpoints };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Darknet Marketplace };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Darude Sandstorm };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Day Drinking };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Deleting one cell in Excel wrathing your whole data model };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Deodorant instead of showers };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont DevOps Engineers };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont DevSecOps };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Displaying success messages in red color to scare the hell out of others };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Don't lick it };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Donald Trump };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Dry humping };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Ejecting USB drives unsafely };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Elon Musk };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont End to end encryption with a non-revocable static key };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Explosive diarrhea };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Fair hostesses };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Fast food, five times a week };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Fixing bugs during the penetration test };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Forget to lock my computer };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Going to prom naked };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Hacker bootcamp };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Hacking Vibrators };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Having the last word };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Hoodies and Ski masks };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont It is always a good idea to change a running system };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont It worked on staging };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont It's a feature };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Just a minor refactoring };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont KISS };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Layer 8 problem };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Leaving the backdoor open };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Legacy Code };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Living in my mother's basement };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Looking like I care };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Lucky13 };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Magic Numbers };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Making small changes in production };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Male underboob sweat };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Marc Zuckerberg };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Microservice Architecture };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Minecraft };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont My lovelife };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont NAT allergy };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Not wearing pants during video chats };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Null pointer exception };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Nyan Cat };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Old people smell };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Opening an alpaca farm };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Outsourcing to India };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Overspecified requirements };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont PHP };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Panda porn };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Penetration without testing };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Playing Mario cart.... in single player mode };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Please beautify };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Plugging in a USB drive correctly the first time };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Plumber's smile };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Popping the stack };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Python };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Quadrocopter with infrared camera };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Quick fix };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Quick search };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Quoting the Big Bang Theory };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Reading the Youporn blog entries on technology for research purposes };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Rebasing };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Releasing features early };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Releasing too early };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Remote access };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Reviewing pull requests };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Rooftop barbecue party };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Running a conference completely with volunteers };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont STDs };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Scope Creep };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Script Kiddy };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Server farms };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Shared Memory };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Smiling a little bit too much };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Software rollback };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Something written in Fortran };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Steve Jobs };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Stormtroopers for quality control };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Sun rays };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Swinging my light saber };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Swiping left and right };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Technical Difficulties };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Ten layered if statements };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Terraforming };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Testing early };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Testing in production };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont That can't be too complicated };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The 16th internship in the 12th company };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The Linux Kernel };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The dark side of the force };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont The difference between machine learning and AI };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Tinder newsletter };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Tiny student dorms };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Too many hot girls };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Touch control };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Touching my joystick };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Touching myself };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Tripping the wire };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Unexpected side effects };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Unicorns };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Useless meeting };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont User space function calls };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using Blockchain instead of a database };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using HTML as a programming language };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using Tabs instead of Spaces };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using XML instead of JSON };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using a light theme for the terminal };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using blockchain in every pitch };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using kubernetes for my static website with 100 visitors per month };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using more than 10 programming languages because I can };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Using open source software just because it's free };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Vendor lock Stockholm syndrome };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Watching Porn over the company vpn };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Whistling the Tetris theme song };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse
+\newpage
+\noindent \begin{tikzpicture}[remember picture, overlay] \node [shift={(0.1in,0in)}]  at (current page.south west) { \begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] 
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Winking at old people };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Winning because of psychological warfare };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 0 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont Writing code without my supervisor telling me what to do };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont \LaTeX };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont git --force push };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 1 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont iOS developers };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 0 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont in $O(1)$ };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 1 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont rm -rf / };
+\node [below right,text width=1.86in] at (\LEFTMARGIN + 2 * \CARDWIDTH, \TOPMARGIN + 2 * \CARDHEIGHT) { \fontsize{12}{0}\selectfont sudo };
+\end{tikzpicture} }; \end{tikzpicture} \newpage \backgroundreverse

@@ -1,0 +1,162 @@
+"Did you try turning it off and on again?"
+"I destroyed the internet"
+"I tested it"
+"Your" opinion
+45 minutes daily standup
+A fridge filled with club mate
+A missing semicolon
+A short nap
+A three day build pipeline
+A/B testing
+AI Hackathon
+AI based sex toys
+An oversized office chair
+Backdoor Traffic
+Beer Pong as a team event
+Beer in the office
+Being oddly specific
+Big Data driven business model
+Bill Gates
+Black holes
+Blinking ads
+Browsing StackOverflow for hours without actually looking for a solution
+Bruce Schneier
+Burger Tuesday
+CORS Headers
+Cat videos
+Church of the flying spaghetti monster
+Code monkeys
+Cold leftover pizza from last week
+Comic Con
+Commenting it out
+Compilation error
+Copy \& Pasting from StackOverflow
+Creating a buffer overflow
+Cuddling with ewoks
+Customer touchpoints
+Darknet Marketplace
+Darude Sandstorm
+Day Drinking
+Deleting one cell in Excel wrathing your whole data model
+Deodorant instead of showers
+DevOps Engineers
+DevSecOps
+Displaying success messages in red color to scare the hell out of others
+Don't lick it
+Donald Trump
+Dry humping
+Ejecting USB drives unsafely
+Elon Musk
+End to end encryption with a non-revocable static key
+Explosive diarrhea
+Fair hostesses
+Fast food, five times a week
+Fixing bugs during the penetration test
+Forget to lock my computer
+Going to prom naked
+Hacker bootcamp
+Hacking Vibrators
+Having the last word
+Hoodies and Ski masks
+It is always a good idea to change a running system
+It worked on staging
+It's a feature
+Just a minor refactoring
+KISS
+Layer 8 problem
+Leaving the backdoor open
+Legacy Code
+Living in my mother's basement
+Looking like I care
+Lucky13
+Magic Numbers
+Making small changes in production
+Male underboob sweat
+Marc Zuckerberg
+Microservice Architecture
+Minecraft
+My lovelife
+NAT allergy
+Not wearing pants during video chats
+Null pointer exception
+Nyan Cat
+Old people smell
+Opening an alpaca farm
+Outsourcing to India
+Overspecified requirements
+PHP
+Panda porn
+Penetration without testing
+Playing Mario cart.... in single player mode
+Please beautify
+Plugging in a USB drive correctly the first time
+Plumber's smile
+Popping the stack
+Python
+Quadrocopter with infrared camera
+Quick fix
+Quick search
+Quoting the Big Bang Theory
+Reading the Youporn blog entries on technology for research purposes
+Rebasing
+Releasing features early
+Releasing too early
+Remote access
+Reviewing pull requests
+Rooftop barbecue party
+Running a conference completely with volunteers
+STDs
+Scope Creep
+Script Kiddy
+Server farms
+Shared Memory
+Smiling a little bit too much
+Software rollback
+Something written in Fortran
+Steve Jobs
+Stormtroopers for quality control
+Sun rays
+Swinging my light saber
+Swiping left and right
+Technical Difficulties
+Ten layered if statements
+Terraforming
+Testing early
+Testing in production
+That can't be too complicated
+The 16th internship in the 12th company
+The Linux Kernel
+The dark side of the force
+The difference between machine learning and AI
+Tinder newsletter
+Tiny student dorms
+Too many hot girls
+Touch control
+Touching my joystick
+Touching myself
+Tripping the wire
+Unexpected side effects
+Unicorns
+Useless meeting
+User space function calls
+Using Blockchain instead of a database
+Using HTML as a programming language
+Using Tabs instead of Spaces
+Using XML instead of JSON
+Using a light theme for the terminal
+Using blockchain in every pitch
+Using kubernetes for my static website with 100 visitors per month
+Using more than 10 programming languages because I can
+Using open source software just because it's free
+Vendor lock Stockholm syndrome
+Watching Porn over the company vpn
+Whistling the Tetris theme song
+Winking at old people
+Winning because of psychological warfare
+Writing code without my supervisor telling me what to do
+\LaTeX
+git --force push
+iOS developers
+in $O(1)$
+rm -rf /
+sudo
