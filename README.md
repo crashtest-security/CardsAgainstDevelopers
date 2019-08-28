@@ -3,6 +3,8 @@ Cards Against Developers
 
 Cards Against Developers is based on [Cards Against Cryptography](https://github.com/CardsAgainstCryptography/CAC) and [Cards Against Humanity](https://cardsagainsthumanity.com/). It describes itself as "a party game for horrible people". Cards Against Developers is not quite as mean, but still has bit of an edge.
 
+![Cards Against Developers Box](./images/box.png "Cards Against Developers Box")
+
 Basic Rules
 -----------
 
